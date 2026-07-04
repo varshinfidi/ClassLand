@@ -1,7 +1,7 @@
 # 🤖 ClassLand
 
 <p align="center">
-  <img src="Images/Banner.jpg" width="100%">
+  <img src="Images/Banner.png" width="100%">
 </p>
 
 ## 📖 Overview
